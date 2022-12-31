@@ -1,4 +1,6 @@
-window.alert('Hehh, chúc mừng năm mới 2023! Nhận được tin nhắn này tức là bạn là một người đặc biệt với tôi, năm mới đã đến rồi, tôi biết chúng ta xảy ra nhiều bất đồng và ý kiến trong năm vừa qua, nhưng hy vọng năm mới, chúng ta sẽ nhìn nhau bằng con người mới, ánh mắt mới, bỏ qua mọi hiểu lầm và chuyện cũ, tha thứ cho nhau. Anyways, chúc năm mới vui vẻ, bạn của tôi !!!');
+function myFunction() {
+    alert('Hehh, chúc mừng năm mới 2023! Nhận được tin nhắn này tức là bạn là một người đặc biệt với tôi, năm mới đã đến rồi, tôi biết chúng ta xảy ra nhiều bất đồng và ý kiến trong năm vừa qua, nhưng hy vọng năm mới, chúng ta sẽ nhìn nhau bằng con người mới, ánh mắt mới, bỏ qua mọi hiểu lầm và chuyện cũ, tha thứ cho nhau. Anyways, chúc năm mới vui vẻ, bạn của tôi !!!');
+}
 
 var design = anime({
     targets: '#newyear2020 #happy',
